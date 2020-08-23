@@ -3,30 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b9321ac3-55b7-4a78-978c-960fa8d9c66d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110142.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110146.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110150.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110153.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110157.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110210.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110212.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110218.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110222.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110226.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110232.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110237.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110245.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110249.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110253.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110256.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110321.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110327.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110338.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110341.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110348.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110353.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110359.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ocr/result/words_result.txt" afterPath="$PROJECT_DIR$/ocr/result/words_result.txt" />
+      <change beforePath="$PROJECT_DIR$/.ignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,43 +16,18 @@
     <pharConfigPath>$PROJECT_DIR$/ocr/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="words_result.txt" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/ocr/result/words_result.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="308">
-                  <caret line="455" column="0" lean-forward="true" selection-start-line="455" selection-start-column="0" selection-end-line="455" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="words_result.txt" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/ocr/result/words_result.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="405">
-                  <caret line="445" column="7" lean-forward="false" selection-start-line="445" selection-start-column="7" selection-end-line="445" selection-end-column="7" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="2020-08-23 110407.jpg" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110407.jpg">
-              <provider selected="true" editor-type-id="images">
-                <state />
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -136,23 +88,6 @@
               <item name="mytools" type="b2602c69:ProjectViewProjectNode" />
               <item name="mytools" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="mytools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mytools" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ocr" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="mytools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mytools" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ocr" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="image" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="mytools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mytools" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ocr" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="result" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -194,19 +129,19 @@
       <option name="presentableId" value="Default" />
       <updated>1598152942008</updated>
       <workItem from="1598152944789" duration="5461000" />
-      <workItem from="1598166687271" duration="13222000" />
+      <workItem from="1598166687271" duration="13702000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18683000" />
+    <option name="totallyTimeSpent" value="19163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13297872" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26139817" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -237,11 +172,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105912.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105917.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -482,15 +412,23 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/result/words_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="445" column="7" lean-forward="false" selection-start-line="445" selection-start-column="7" selection-end-line="445" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110407.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/result/words_result.txt">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="455" column="0" lean-forward="true" selection-start-line="455" selection-start-column="0" selection-end-line="455" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
         </state>
       </provider>
