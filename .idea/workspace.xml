@@ -2,1028 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9321ac3-55b7-4a78-978c-960fa8d9c66d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110142.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110146.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110150.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110153.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110157.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110210.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110212.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110218.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110222.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110226.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110232.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110237.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110245.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110249.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110253.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110256.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110321.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110327.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110338.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110341.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110348.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110353.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110359.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110407.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110413.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110416.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110420.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110428.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110432.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110436.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110440.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110443.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110447.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110453.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110502.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110526.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110533.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110542.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110548.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110554.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110558.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110603.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110609.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110614.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110622.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110628.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110636.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110641.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110647.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110657.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110702.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110706.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110711.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110716.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110723.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110732.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110737.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110741.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110751.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110805.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110811.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110816.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110821.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110828.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110832.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110838.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110843.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110849.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110901.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110908.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110913.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110921.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110925.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110929.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110941.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110946.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110950.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 110954.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111001.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111010.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111017.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111023.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111029.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111033.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111037.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111042.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111051.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111055.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111100.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111107.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111114.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111123.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111128.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111135.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111141.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111147(1).jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111147.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111155(1).jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111155.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111205(1).jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111205.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111210(1).jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111210.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111216(1).jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111216.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111220(1).jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111220.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111225(1).jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111225.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111229(1).jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111229.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111236(1).jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111236.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111242(1).jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111242.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111245(1).jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111245.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111250.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111254(1).jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 111254.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125002.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125007(1).jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125007.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125013(1).jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125013.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125017(1).jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125017.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125025.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125032.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125038.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125041.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125046.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125054.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125057.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125106.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125120.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125124.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125132.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125138.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125142.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125146.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125149.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125157.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125202.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125207.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125213.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125218.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125223.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125227.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125234.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125241.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125247.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125254.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125259.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125304.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125310.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125316.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125321.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125327.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125331.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125336.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125341.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125345.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125348.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125351.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125401.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125405.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125410.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125417.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125424.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125427.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125433.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125436.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125440.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125446.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125450.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125456.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125500.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125507.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125511.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125515.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125523.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125528.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125532.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125536.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125537.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125540.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125543.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125555.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125618.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125622.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125629.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125634.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125639.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125643.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125648.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125652.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125658.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125707.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125713.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125718.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125722.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125726.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125732.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125736.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125748.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125750.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125757.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125800.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125804.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125807.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125813.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125818.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125823.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125827.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125830.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125834.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125838.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125842.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125848.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125851.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125855.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125858.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125905.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125909.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125914.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125917.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125919.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125929.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125934.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 125938.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130002.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130007.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130016.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130019.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130023.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130027.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130029.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130034.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130042.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130053.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130057.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130101.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130106.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130109.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130112.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130119.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130126.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130129.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130132.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130134.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130137.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130141.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130144.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130151.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130154.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130158.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130202.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130206.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130209.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130212.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130216.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130219.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130222.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130227.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130232.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130236.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130241.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130244.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130248.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130253.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130259.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130304.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130311.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130322.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130326.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130331.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130339.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130341.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/2020-08-23 130346.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0645.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0646.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0647.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0648.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0649.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0650.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0651.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0652.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0653.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0654.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0655.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0656.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0657.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0658.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0659.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0660.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0661.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0662.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0663.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0664.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0665.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0666.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0667.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0668.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0669.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0670.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0671.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0672.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0673.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0674.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0675.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0676.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0677.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0678.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0679.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0680.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0681.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0682.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0683.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0684.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0685.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0686.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0687.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0688.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0689.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0690.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0691.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0692.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0693.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0694.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0695.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0696.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0697.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0698.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0699.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0700.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0701.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0702.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0703.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0704.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0705.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0706.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0707.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0708.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0709.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0710.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0711.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0712.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0713.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0714.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0715.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0716.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0717.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0718.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0719.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0720.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0721.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0722.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0723.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0724.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0725.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0726.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0727.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0728.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0729.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0730.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0731.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0732.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0733.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0734.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0735.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0736.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0737.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0738.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0739.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0740.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0741.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0742.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0743.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0744.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0745.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0746.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0747.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0748.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0749.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0750.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0751.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0752.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0753.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0754.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0755.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0756.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0757.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0758.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0759.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0760.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0761.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0762.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0763.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0764.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0765.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0766.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0767.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0768.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0769.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0770.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0771.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0772.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0773.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0774.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0775.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0776.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0777.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0778.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0779.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0780.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0781.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0782.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0783.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0784.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0785.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0786.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0787.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0788.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0789.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0790.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0791.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0792.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0793.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0794.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0795.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0796.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0797.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0798.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0799.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0800.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0801.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0802.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0803.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0804.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0805.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0806.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0807.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0808.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0809.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0810.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0811.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0812.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0813.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0814.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0815.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0816.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0817.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0818.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0819.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0820.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0821.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0822.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0823.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0824.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0825.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0826.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0827.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0828.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0829.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0830.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0831.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0832.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0833.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0834.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0835.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0836.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0837.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0838.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0839.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0840.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0841.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0842.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0843.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0844.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0845.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/IMG_0847.JPG.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/image/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/lib/7025d424f2ae8951f2a82c52ffd0f132" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105633.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105637.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105642.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105646.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105651.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105657.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105724.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105729.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105732.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105738.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105744.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105750.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105755.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105759.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105805.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105810.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105814.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105820.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105824.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105831.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105843.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105852.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105858.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105902.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105909.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105912.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105917.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105926.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105930.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105933.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105937.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105946.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105954.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_105959.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110005.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110009.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110014.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110028.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110034.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110042.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110047.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110054.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110059.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110103.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110107.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110111.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110115.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110121.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110127.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110133.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110137.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110142.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110146.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110150.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110153.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110157.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110210.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110212.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110218.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110222.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110226.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110232.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110237.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110245.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110249.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110253.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110256.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110321.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110327.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110338.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110341.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110348.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110353.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110359.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110407.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110413.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110416.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110420.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110428.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110432.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110436.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110440.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110443.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110447.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110453.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110502.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110526.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110533.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110542.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110548.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110554.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110558.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110603.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110609.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110614.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110622.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110628.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110636.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110641.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110647.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110657.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110702.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110706.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110711.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110716.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110723.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110732.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110737.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110741.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110751.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110805.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110811.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110816.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110821.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110828.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110832.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110838.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110843.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110849.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110901.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110908.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110913.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110921.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110925.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110929.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110941.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110946.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110950.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_110954.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111001.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111010.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111017.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111023.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111029.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111033.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111037.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111042.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111051.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111055.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111100.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111107.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111114.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111123.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111128.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111135.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111141.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111147(1).jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111147.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111155(1).jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111155.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111205(1).jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111205.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111210(1).jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111210.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111216(1).jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111216.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111220(1).jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111220.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111225(1).jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111225.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111229(1).jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111229.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111236(1).jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111236.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111242(1).jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111242.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111245(1).jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111245.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111250.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111254(1).jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_111254.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125002.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125007(1).jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125007.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125013(1).jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125013.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125017(1).jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125017.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125025.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125032.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125038.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125041.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125046.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125054.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125057.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125106.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125120.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125124.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125132.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125138.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125142.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125146.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125149.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125157.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125202.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125207.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125213.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125218.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125223.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125227.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125234.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125241.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125247.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125254.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125259.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125304.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125310.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125316.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125321.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125327.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125331.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125336.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125341.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125345.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125348.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125351.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125401.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125405.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125410.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125417.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125424.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125427.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125433.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125436.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125440.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125446.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125450.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125456.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125500.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125507.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125511.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125515.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125523.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125528.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125532.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125536.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125537.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125540.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125543.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125555.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125618.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125622.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125629.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125634.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125639.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125643.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125648.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125652.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125658.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125707.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125713.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125718.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125722.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125726.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125732.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125736.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125748.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125750.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125757.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125800.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125804.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125807.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125813.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125818.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125823.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125827.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125830.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125834.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125838.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125842.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125848.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125851.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125855.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125858.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125905.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125909.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125914.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125917.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125919.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125929.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125934.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_125938.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130002.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130007.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130016.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130019.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130023.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130027.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130029.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130034.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130042.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130053.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130057.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130101.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130106.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130109.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130112.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130119.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130126.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130129.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130132.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130134.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130137.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130141.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130144.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130151.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130154.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130158.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130202.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130206.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130209.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130212.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130216.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130219.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130222.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130227.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130232.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130236.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130241.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130244.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130248.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130253.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130259.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130304.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130311.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130322.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130326.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130331.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130339.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130341.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/2020-08-23_130346.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0645.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0646.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0647.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0648.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0649.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0650.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0651.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0652.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0653.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0654.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0655.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0656.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0657.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0658.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0659.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0660.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0661.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0662.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0663.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0664.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0665.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0666.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0667.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0668.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0669.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0670.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0671.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0672.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0673.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0674.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0675.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0676.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0677.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0678.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0679.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0680.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0681.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0682.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0683.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0684.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0685.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0686.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0687.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0688.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0689.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0690.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0691.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0692.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0693.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0694.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0695.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0696.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0697.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0698.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0699.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0700.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0701.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0702.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0703.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0704.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0705.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0706.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0707.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0708.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0709.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0710.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0711.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0712.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0713.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0714.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0715.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0716.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0717.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0718.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0719.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0720.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0721.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0722.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0723.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0724.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0725.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0726.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0727.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0728.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0729.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0730.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0731.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0732.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0733.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0734.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0735.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0736.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0737.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0738.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0739.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0740.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0741.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0742.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0743.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0744.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0745.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0746.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0747.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0748.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0749.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0750.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0751.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0752.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0753.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0754.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0755.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0756.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0757.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0758.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0759.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0760.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0761.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0762.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0763.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0764.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0765.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0766.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0767.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0768.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0769.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0770.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0771.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0772.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0773.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0774.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0775.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0776.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0777.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0778.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0779.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0780.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0781.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0782.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0783.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0784.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0785.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0786.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0787.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0788.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0789.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0790.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0791.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0792.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0793.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0794.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0795.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0796.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0797.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0798.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0799.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0800.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0801.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0802.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0803.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0804.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0805.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0806.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0807.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0808.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0809.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0810.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0811.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0812.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0813.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0814.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0815.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0816.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0817.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0818.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0819.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0820.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0821.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0822.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0823.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0824.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0825.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0826.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0827.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0828.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0829.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0830.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0831.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0832.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0833.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0834.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0835.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0836.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0837.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0838.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0839.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0840.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0841.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0842.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0843.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0844.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0845.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/IMG_0847.JPG.jpeg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ocr/result/words_result.txt" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ocr/index.php" afterPath="$PROJECT_DIR$/ocr/index.php" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110142.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110146.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110153.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110157.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110210.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110212.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110218.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110222.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110226.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110232.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110237.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110245.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110249.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110253.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110256.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110321.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110327.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110338.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110341.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110348.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110353.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/image/2020-08-23 110359.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ocr/result/words_result.txt" afterPath="$PROJECT_DIR$/ocr/result/words_result.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -1042,8 +45,8 @@
           <file leaf-file-name="words_result.txt" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/ocr/result/words_result.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="271">
-                  <caret line="321" column="3" lean-forward="false" selection-start-line="321" selection-start-column="3" selection-end-line="321" selection-end-column="3" />
+                <state relative-caret-position="308">
+                  <caret line="455" column="0" lean-forward="true" selection-start-line="455" selection-start-column="0" selection-end-line="455" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -1056,15 +59,15 @@
           <file leaf-file-name="words_result.txt" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ocr/result/words_result.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="290">
-                  <caret line="316" column="10" lean-forward="true" selection-start-line="316" selection-start-column="10" selection-end-line="316" selection-end-column="10" />
+                <state relative-caret-position="405">
+                  <caret line="445" column="7" lean-forward="false" selection-start-line="445" selection-start-column="7" selection-end-line="445" selection-end-column="7" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="2020-08-23 110142.jpg" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110142.jpg">
+          <file leaf-file-name="2020-08-23 110407.jpg" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110407.jpg">
               <provider selected="true" editor-type-id="images">
                 <state />
               </provider>
@@ -1191,12 +194,12 @@
       <option name="presentableId" value="Default" />
       <updated>1598152942008</updated>
       <workItem from="1598152944789" duration="5461000" />
-      <workItem from="1598166687271" duration="7900000" />
+      <workItem from="1598166687271" duration="13222000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13361000" />
+    <option name="totallyTimeSpent" value="18683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
@@ -1234,121 +237,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105642.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105637.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105633.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105657.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105724.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105729.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105744.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105750.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105732.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105738.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105755.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105759.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105805.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105810.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105814.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105820.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105824.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105831.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105843.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105852.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105858.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105902.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105909.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 105912.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1484,10 +372,125 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110146.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110150.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110153.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110157.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110210.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110212.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110218.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110222.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110226.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110232.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110237.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110245.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110249.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110253.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110256.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110321.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110327.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110338.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110348.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110341.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110353.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110359.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/image/2020-08-23 110407.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ocr/result/words_result.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="321" column="3" lean-forward="false" selection-start-line="321" selection-start-column="3" selection-end-line="321" selection-end-column="3" />
+        <state relative-caret-position="308">
+          <caret line="455" column="0" lean-forward="true" selection-start-line="455" selection-start-column="0" selection-end-line="455" selection-end-column="0" />
           <folding />
         </state>
       </provider>
