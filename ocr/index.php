@@ -10,9 +10,11 @@ const SECRET_KEY = 'qB0baKs7Swe3tG0AMFqEetr9jnMuBlEG';
 
 $client = new AipOcr(APP_ID, API_KEY, SECRET_KEY);
 
+$base_dir = './image';
 
-$image = file_get_contents('./image/20200731223211.jpg');
+$files = scandir($base_dir);
 
+//$image = file_get_contents('./image/20200731223211.jpg');
 // 如果有可选参数
 $options = array();
 $options["language_type"] = "CHN_ENG";
@@ -24,7 +26,16 @@ $options["detect_language"] = "true";
 //$result = $client->basicGeneral($image, $options);
 
 // 带参数调用通用文字识别（高精度版）
-$result = $client->basicAccurate($image, $options);
+//$result = $client->basicAccurate($image, $options);
+
+foreach($files as $file){
+    if(is_file($file)) {
+        $image = file_get_contents($file);
+        $result = $client->basicAccurate($image, $options);
+
+    }
+
+}
 
 // 带参数调用通用文字识别（含生僻字版）, 图片参数为本地图片
 //$result = $client->enhancedGeneral($image, $options);
