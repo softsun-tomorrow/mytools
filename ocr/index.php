@@ -34,12 +34,19 @@ foreach($files as $file){
         continue;
     }
     $file = $base_dir.'/'.$file;
+    $words = [];
+    $wordsString = '';
     if(is_file($file)) {
         $image = file_get_contents($file);
         $result = $client->basicAccurate($image, $options);
-
+        if(!empty($result['log_id']) && !empty($result['words_result'])){
+            array_map(function($item)use(&$words){
+                $words[] = $item[]['words'];
+            }, $result['words_result']);
+        }
     }
-
+//    $wordsString = implode('\r\n', $words);
+    file_put_contents('./words_result.txt', $words);
 }
 
 // 带参数调用通用文字识别（含生僻字版）, 图片参数为本地图片
