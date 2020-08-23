@@ -27,27 +27,38 @@ $options["detect_language"] = "true";
 
 // 带参数调用通用文字识别（高精度版）
 //$result = $client->basicAccurate($image, $options);
+ini_set('memory_limit', '128M');
+//ini_set('max_execution_time', '0');
+set_time_limit(0);
 
 foreach($files as $file){
-    print_r($file);
     if ($file == '.' || $file == '..') {
         continue;
     }
-    $file = $base_dir.'/'.$file;
     $words = [];
     $wordsString = '';
-    if(is_file($file)) {
-        $image = file_get_contents($file);
+    if(is_file($base_dir.'/'.$file)) {
+        $image = file_get_contents($base_dir.'/'.$file);
         $result = $client->basicAccurate($image, $options);
         if(!empty($result['log_id']) && !empty($result['words_result'])){
             array_map(function($item)use(&$words){
-                print_r($item);
-                $words[] = $item[0]['words'];
+                $words[] = $item['words'];
             }, $result['words_result']);
         }
     }
 //    $wordsString = implode('\r\n', $words);
-    file_put_contents('/data/www/mytools/ocr/words_result.txt', $words);
+//    file_put_contents('/data/www/mytools/ocr/words_result.txt', $words);
+//    if(!file_exists('./result/'.$file.'.txt')) {
+//        touch('./result/'.$file.'.txt');
+//    }
+//    $path = '/d/www/mytools/ocr/result/';
+    $path = 'D:\www\mytools\ocr\result\\';
+    $file = str_replace(' ', '_', $file);
+    $file = $file.'.txt';
+    if(!file_exists($path.$file)) {
+        touch($path.$file);
+    }
+    file_put_contents($path . $file, $words);
 }
 
 // 带参数调用通用文字识别（含生僻字版）, 图片参数为本地图片
