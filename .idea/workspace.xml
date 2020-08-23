@@ -19,10 +19,10 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ocr/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="43" column="34" lean-forward="false" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+            <state relative-caret-position="403">
+              <caret line="48" column="44" lean-forward="false" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
               <folding>
-                <marker date="1598155150609" expanded="true" signature="1426:1456" ph="..." />
+                <marker date="1598155248928" expanded="true" signature="1446:1476" ph="..." />
               </folding>
             </state>
           </provider>
@@ -31,8 +31,8 @@
       <file leaf-file-name="standard_5.php" pinned="false" current-in-tab="false">
         <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1615">
-              <caret line="1121" column="44" lean-forward="false" selection-start-line="1121" selection-start-column="39" selection-end-line="1121" selection-end-column="44" />
+            <state relative-caret-position="0">
+              <caret line="1052" column="25" lean-forward="false" selection-start-line="1052" selection-start-column="20" selection-end-line="1052" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -142,12 +142,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598152942008</updated>
-      <workItem from="1598152944789" duration="2202000" />
+      <workItem from="1598152944789" duration="2308000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2202000" />
+    <option name="totallyTimeSpent" value="2308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
@@ -203,18 +203,18 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="1121" column="44" lean-forward="false" selection-start-line="1121" selection-start-column="39" selection-end-line="1121" selection-end-column="44" />
+        <state relative-caret-position="0">
+          <caret line="1052" column="25" lean-forward="false" selection-start-line="1052" selection-start-column="20" selection-end-line="1052" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ocr/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="43" column="34" lean-forward="false" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+        <state relative-caret-position="403">
+          <caret line="48" column="44" lean-forward="false" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
           <folding>
-            <marker date="1598155150609" expanded="true" signature="1426:1456" ph="..." />
+            <marker date="1598155248928" expanded="true" signature="1446:1476" ph="..." />
           </folding>
         </state>
       </provider>

@@ -46,7 +46,7 @@ foreach($files as $file){
         }
     }
 //    $wordsString = implode('\r\n', $words);
-    file_put_contents('./words_result.txt', $words);
+    file_put_contents('/data/www/mytools/ocr/words_result.txt', $words);
 }
 
 // 带参数调用通用文字识别（含生僻字版）, 图片参数为本地图片
