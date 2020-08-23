@@ -29,6 +29,11 @@ $options["detect_language"] = "true";
 //$result = $client->basicAccurate($image, $options);
 
 foreach($files as $file){
+    print_r($file);
+    if ($file == '.' || $file == '..') {
+        continue;
+    }
+    $file = $base_dir.'/'.$file;
     if(is_file($file)) {
         $image = file_get_contents($file);
         $result = $client->basicAccurate($image, $options);
