@@ -41,6 +41,7 @@ foreach($files as $file){
         $result = $client->basicAccurate($image, $options);
         if(!empty($result['log_id']) && !empty($result['words_result'])){
             array_map(function($item)use(&$words){
+                print_r($item);
                 $words[] = $item[0]['words'];
             }, $result['words_result']);
         }
